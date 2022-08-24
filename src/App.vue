@@ -1,5 +1,8 @@
 <template>
   <h1>{{ message }}</h1>
+  <img 
+    src="dfdf"
+    alt="dfdf" />
   <HelloWorld />
 </template>
 
@@ -16,5 +19,4 @@ import HelloWorld from '~/components/HelloWorld';
       }
     }
   }
-
 </script>
